@@ -1,0 +1,14 @@
+name: SRGTN_WWF
+title: SRGTN_WWF
+username:
+account: aospina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4191104
+bundleId: 4833714
+url: https://aospina.shinyapps.io/SRGTN_WWF/
+when: 1626689073.40293
+lastSyncTime: 1626689073.40295
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_no_tabs.R|app_tabs.R|full_app.R|simplified_app.R
